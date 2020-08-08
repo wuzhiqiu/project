@@ -1,0 +1,4 @@
+glass
+glass_area
+stone
+stone_area
